@@ -1,0 +1,7 @@
+## node modules
+node_modules
+packages/npm/node_modules
+
+## package-lock
+package-lock
+packages/npm/package-lock.js
